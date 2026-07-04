@@ -1,0 +1,23 @@
+.venv/
+venv/
+venv_mini/
+venv_pdf/
+.Lib/
+
+# 2. File va thu muc build cua PyInstaller
+build/
+dist/
+*.spec
+
+# 3. File he thong va rac cua Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# 4. Du lieu cong viec (Khong dua len Git de tranh lag may)
+*.xlsx
+*.xls
+*.xlsm
+*.pdf
+"""
+HSK v2.md
