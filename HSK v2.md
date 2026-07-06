@@ -339,7 +339,10 @@ Nhấn mạnh kết quả thì lược bỏ 1. Nhấn mạnh nguyên nhân thì 
       **以前我每天都跑步**。 *(Trước đây ngày nào tôi cũng chạy bộ)*
       ==Phủ định với **没有** (méiyǒu)==
       **我 没有 去**。 *(Tôi đã không đi)*
-      ==Động từ biểu thị trạng thái tâm lý, năng nguyện: (**想, 喜欢, 觉得, 会, 能**...)==
+      ==Không đứng ngay sau động từ chỉ tâm lý và động từ năng nguyện: (**想, 喜欢, 觉得, 会, 能**...)==
+      Tuy nhiên có thể đứng ở cuối câu để biểu thị sự thay đổi trạng thái
+      **我喜欢你了**
+
   - ==**着**== (zhe) - tiếp diễn
     - **Ý nghĩa**: dùng để biểu thị **sự tiếp diễn của hành động** hoặc **sự duy trì của một trạng thái**
     - **Vị trí và Cấu trúc cơ bản**
