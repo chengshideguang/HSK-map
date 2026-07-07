@@ -728,3 +728,4 @@ Nhấn mạnh kết quả thì lược bỏ 1. Nhấn mạnh nguyên nhân thì 
   - *VD: 1m65 = 一米六五 (Yī mǐ liù wǔ). Không đọc là liù shí wǔ.*
 - **Trọng lượng chợ búa**: 
   - *VD: 1.5 kg = 一公斤半 (Yī gōngjīn bàn) hoặc 三斤 (Sān jīn - 3 cân).*
+## vesion 1
