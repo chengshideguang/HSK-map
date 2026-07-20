@@ -575,9 +575,15 @@ Nhấn mạnh kết quả thì lược bỏ 1. Nhấn mạnh nguyên nhân thì 
   - **Ví dụ**: **桌子上有一本书** (Trên bàn có một cuốn sách)
   - **Lưu ý**: Tuyệt đối không dùng "在" (zài) trong cấu trúc này (Không nói: 在桌子有...).
 
-### **要……了** - ==để chỉ sự việc sắp xảy ra==
-  - **Cấu trúc** Chủ ngữ + **就要** + ==Động từ / Tính từ== + **了**
-  **火车就要来了** - *Tàu hỏa sắp đến rồi*
+### **Chỉ sự việc sắp xảy ra**
+  - **要……了** - để chỉ sự việc sắp xảy ra trong tương lai gần
+    Cấu trúc: Chủ ngữ + **要** + ==Động từ / Tính từ== + **了**
+    **我们要下班了** - *Chúng tôi sắp tan làm rồi*
+  - **快（要）……了** để chỉ sự việc sắp xảy ra với thời gian rất gấp rút
+    Cấu trúc: Chủ ngữ + **快(要)** + ==Động từ / Tính từ== + **了**
+    **新年快到了** - *Năm mới sắp đến nơi rồi*
+    *Lưu ý: Tuyệt đối ==không dùng== cấu trúc này khi câu có mốc thời gian.*
+  - **就要……了** - để chỉ sự việc sắp xảy ra có kế hoạch hoặc mốc thời gian cụ thể
 
 
 ## BIẾN ĐIỆU TRONG TIẾNG HÁN
